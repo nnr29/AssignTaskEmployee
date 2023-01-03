@@ -1,0 +1,15 @@
+venkat,emp06,venkat@mail.com,9876541236,Hyderabad AndraPradesh India
+kavana,emp07,kavana@mail.com,9876541237,Bangalore Karnataka India
+johnson,emp08,johnson@mail.com,9876541238,Sirsi Karnataka India
+karthik,emp09,karthik@mail.com,9876541239,Belgaum Karnataka India
+amogh,emp10,amogh@mail.com,9876541240,Bangalore Karnataka India
+johnson,emp11,johnson@mail.com,9876541241,Mysore Karnataka India
+mani,emp12,mani@mail.com,9876541242,Bangalore Karnataka India
+naush,emp13,naush@mail.com,9876541243,Mysore Karnataka India
+rajshekar,emp14,raj@mail.com,9876541244,Bangalore Karnataka India
+nithin,emp15,nithin@mail.com,9876541245,Bangalore Karnataka India
+darshan,emp16,darshan@mail.com,9876541246,Byandoor Karnataka India
+abishek,emp17,abishek@mail.com,9876543212,Bangalore Karnataka India
+vagesh,emp18,vagesh@mail.com,9878335577,Gulbarga Karnataka India
+sachin,emp18,sachin@mail.com,9876222444,Bangalore Karnataka India
+ashok,emp19,ashok@mail.com,9887222444,Bangalorore

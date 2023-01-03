@@ -2,9 +2,9 @@ TEMPLATE = app
 CONFIG += console
 CONFIG -= app_bundle
 CONFIG -= qt
-DESTDIR =$$PWD/task/
+
 SOURCES += \
         main.c
 
 HEADERS += \
-    assign.h
+    login_details_data.h

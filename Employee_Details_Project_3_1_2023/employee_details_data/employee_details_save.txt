@@ -1,0 +1,47 @@
+Emp_Name  	asdf
+Emp_Id      	emp99
+Emp_Email   	asdf@mail.com
+Emp_Ph-no.  	098765445
+Emp_Address 	iuytrerty bn
+
+Emp_Name  	Santosh
+Emp_Id      	emp22
+Emp_Email   	santosh@mail.com
+Emp_Ph-no.  	098765456
+Emp_Address 	Bangalore Karnataka India
+
+Emp_Name  	john
+Emp_Id      	e45
+Emp_Email   	john@mail.com
+Emp_Ph-no.  	7654345
+Emp_Address 	Bangalore
+
+Emp_Name  	fgh
+Emp_Id      	e66
+Emp_Email   	fgh@mail
+Emp_Ph-no.  	654
+Emp_Address 	bangalore
+
+Emp_Name  	suman
+Emp_Id      	e888
+Emp_Email   	suman@mail.com
+Emp_Ph-no.  	988765445
+Emp_Address 	dvg
+
+Emp_Name  	Rohith
+Emp_Id      	emp66
+Emp_Email   	rohith@mail.com
+Emp_Ph-no.  	765434
+Emp_Address 	Bangalore India
+
+Emp_Name  	Darshan
+Emp_Id      	emp58
+Emp_Email   	darshan@mail.com
+Emp_Ph-no.  	9876544
+Emp_Address 	Bangalore
+
+Emp_Name  	naveendra
+Emp_Id      	emp112
+Emp_Email   	naveendra@mail.com
+Emp_Ph-no.  	9887666444
+Emp_Address 	Anantpur AndraPradesh India
